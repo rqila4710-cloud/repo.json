@@ -1,3 +1,2 @@
 "https://raw.githubusercontent.com"
-  }
-]
+  
