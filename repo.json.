@@ -2,7 +2,7 @@
   "name": "moviehd",
   "description": "CloudStream extension that scrapes Multimovies and pulls sources in parallel with a per-source timeout.",
   "manifestVersion": 1,
-  "pluginLists": [jiocinemaus 
+  "pluginLists": [
     "https://raw.githubusercontent.com/rqila4710-cloud/repo.json/moviehd/builds/plugins.json"
   ]
 }
