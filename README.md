@@ -3,19 +3,19 @@
   "description": "A collection of my custom streaming scraping providers.",
   "manifestVersion": 1,
   "pluginLists": [https://www.jiocinemaus.com/
-    "https://githubusercontent.com"
+    "https://raw.githubusercontent.com"
   ]
 }[
   {
     "name": "Custom Video Scraper",
     "description": "Fetches streams from public media platforms.",
     "filePath": "plugins/CustomVideoScraper.jar",
-    "url": "https://githubusercontent.com",
+    "url": "https://raw.githubusercontent.com",
     "version": 1,
     "versionCode": 100,
     "authors": ["rqila4710-cloud],
     "language": "hindi",
     "tvTypes": ["movie", "tvseries"],
-    "iconUrl": "https://githubusercontent.com"
+    "iconUrl": "https://raw.githubusercontent.com"
   }
 ]
